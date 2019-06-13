@@ -3,4 +3,5 @@ This is a file
 
 //Add remote add and then pull
 git remote add origin https://github.com/Phurpa/myapp1.git
- git pull origin master:master
+git pull origin master:master
+git push origin master
